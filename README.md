@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah sameh</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **react,and I try to master js XD**
+- 🌱 I’m currently learning **react, and I try to master javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullah-sameh](https://github.com/abdullah-sameh)
 
