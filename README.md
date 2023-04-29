@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **react, develop my problem solving skill, and teamwork**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdullah-sameh](https://github.com/abdullah-sameh)
-
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, React, Mantine UI, JavaScript**
 
 - 📫 How to reach me **[email](abdullahmaher@std.mans.edu.eg)**
 
